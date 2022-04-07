@@ -1,0 +1,12 @@
+C:\Users\angel\OneDrive\Documentos\TopicosAvanzadosDeProgramacion\PaolaScott\PIDETEC\bin\Debug\PIDETEC.exe.config
+C:\Users\angel\OneDrive\Documentos\TopicosAvanzadosDeProgramacion\PaolaScott\PIDETEC\bin\Debug\PIDETEC.exe
+C:\Users\angel\OneDrive\Documentos\TopicosAvanzadosDeProgramacion\PaolaScott\PIDETEC\bin\Debug\PIDETEC.pdb
+C:\Users\angel\OneDrive\Documentos\TopicosAvanzadosDeProgramacion\PaolaScott\PIDETEC\obj\Debug\PIDETEC.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Documentos\TopicosAvanzadosDeProgramacion\PaolaScott\PIDETEC\obj\Debug\PIDETEC.Form1.resources
+C:\Users\angel\OneDrive\Documentos\TopicosAvanzadosDeProgramacion\PaolaScott\PIDETEC\obj\Debug\PIDETEC.Properties.Resources.resources
+C:\Users\angel\OneDrive\Documentos\TopicosAvanzadosDeProgramacion\PaolaScott\PIDETEC\obj\Debug\PIDETEC.csproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Documentos\TopicosAvanzadosDeProgramacion\PaolaScott\PIDETEC\obj\Debug\PIDETEC.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Documentos\TopicosAvanzadosDeProgramacion\PaolaScott\PIDETEC\obj\Debug\PIDETEC.exe
+C:\Users\angel\OneDrive\Documentos\TopicosAvanzadosDeProgramacion\PaolaScott\PIDETEC\obj\Debug\PIDETEC.pdb
+C:\Users\angel\OneDrive\Documentos\TopicosAvanzadosDeProgramacion\PaolaScott\PIDETEC\obj\Debug\PIDETEC.opciones.resources
+C:\Users\angel\OneDrive\Documentos\TopicosAvanzadosDeProgramacion\PaolaScott\PIDETEC\obj\Debug\PIDETEC.Menu.resources
